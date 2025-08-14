@@ -1,2 +1,2 @@
 # Assignment-Regression
-I have done the SLR, MLR, SVM, DT, RF Regression Algorithms with the Step by Step Explanations.
+I have done the SL Regression Algorithm with the Step by Step Explanations.
